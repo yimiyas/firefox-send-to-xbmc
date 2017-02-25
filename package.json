@@ -6,6 +6,12 @@
   "author": "Sano_Webdevelopment",
   "license": "MIT",
   "version": "2.3.0",
-  "main": "main",
-  "permissions": {"private-browsing": true}
+  "main": "lib/main.js",
+  "permissions": {"private-browsing": true},
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "keywords": [
+    "jetpack"
+  ]
 }
